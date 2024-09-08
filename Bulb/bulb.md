@@ -1,5 +1,5 @@
 ## html code
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -49,7 +49,7 @@ body{
 
 ## javascript code
 
-```
+```javascript
 const bulb = document.querySelector(".bulb");
 const onoff = document.querySelector(".switch");
 var logic = 0
